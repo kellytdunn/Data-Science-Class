@@ -1,2 +1,2 @@
 # Data-Science-Class
-Labs for the IBM Data Science Certificate
+Labs for the IBM Data Science Certificate on Coursera
